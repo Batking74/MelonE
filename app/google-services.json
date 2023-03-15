@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "505454238002",
+    "project_id": "melone-12467",
+    "storage_bucket": "melone-12467.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505454238002:android:630d9c75dd9c6c85e41f2b",
+        "android_client_info": {
+          "package_name": "com.example.melone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505454238002-ev6df88l4a28aearbtva451gebu6tfaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.melone",
+            "certificate_hash": "438e43afc579de2e38dc9960f30ec291bf10e6d3"
+          }
+        },
+        {
+          "client_id": "505454238002-al43o1trgud6sem7vemknojgv71pg8d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqhrG1LUg6nNSoRZJ5spPpmDgK0JW2mMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505454238002-al43o1trgud6sem7vemknojgv71pg8d3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

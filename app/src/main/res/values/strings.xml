@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MelonE</string>
+    <string name="text1">MelonE Login</string>
+    <string name="text2">Hello Nazir</string>
+    <string name="next_page">Next Page</string>
+    <string name="Profile"> </string>
+    <string name="Home"> </string>
+    <string name="Menu"> </string>
+    <string name="Home_Fragment">Nazir</string>
+    <string name="Profile_Fragment">Knuckles</string>
+    <string name="Menu_Fragment">Armond</string>
+</resources>
